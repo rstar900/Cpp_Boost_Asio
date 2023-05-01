@@ -20,7 +20,6 @@ Make sure you have installed Conan 2 (https://docs.conan.io/2/installation.html)
 3. Then run the following commands on Unix based systems (Linux and MacOS)
 
 ```
-mkdir build
 conan install . --output-folder=build --build=missing
 cd build
 cmake .. -DCMAKE_TOOLCHAIN_FILE=conan_toolchain.cmake -DCMAKE_BUILD_TYPE=Release
