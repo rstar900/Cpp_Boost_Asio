@@ -13,7 +13,7 @@ Make sure you have installed Conan 2 (https://docs.conan.io/2/installation.html)
 
 ``` conan profile detect --force ```
 
-2. then make sure build diretory does not exist already, if it does then
+2. then make sure build directory does not exist already, if it does then
 
 ``` rm -rf build ```
 
