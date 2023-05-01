@@ -1,0 +1,9 @@
+{
+    "version": 4,
+    "vendor": {
+        "conan": {}
+    },
+    "include": [
+        "/home/rstar900/git_repos/Cpp_Boost_Asio/TCP_Synchronous_Client_Server/build/CMakePresets.json"
+    ]
+}
