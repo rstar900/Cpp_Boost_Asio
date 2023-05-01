@@ -11,7 +11,7 @@ Make sure you have installed Conan 2 (https://docs.conan.io/2/installation.html)
 
 1. Run the command below in case conan does not detect a profile
 
-``` conan profile detect --force <br> <br> ```
+``` conan profile detect --force ```
 
 2. then make sure build diretory does not exist already, if it does then
 
